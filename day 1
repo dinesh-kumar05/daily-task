@@ -1,0 +1,21 @@
+1.	Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP – Hyper Text Transfer Protocol
+
+HTTP1.1
+It is standardized protocol.  It is discovered in 1997 and it is in the same platform for more than 15 years.
+It is little bit slower than http -2  & Still  many of the are using http1.1 only because it was standardized.
+
+
+HTTP-2
+It is discovered in 2015. It is much faster & reliable that http1.1.
+It is based on SPDY protocol discovered by google.
+
+
+2.  Write a blog about objects and its internal representation in Javascript
+
+Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+For Eg. If your object is a student, it will have properties like name, age, address, id, etc and methods like updateAddress, updateNam, etc.
+
+
